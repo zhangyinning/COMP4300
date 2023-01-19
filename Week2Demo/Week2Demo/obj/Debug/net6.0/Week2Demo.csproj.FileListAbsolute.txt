@@ -1,0 +1,15 @@
+C:\Users\erynz\source\repos\Week2Demo\Week2Demo\bin\Debug\net6.0\Week2Demo.exe
+C:\Users\erynz\source\repos\Week2Demo\Week2Demo\bin\Debug\net6.0\Week2Demo.deps.json
+C:\Users\erynz\source\repos\Week2Demo\Week2Demo\bin\Debug\net6.0\Week2Demo.runtimeconfig.json
+C:\Users\erynz\source\repos\Week2Demo\Week2Demo\bin\Debug\net6.0\Week2Demo.dll
+C:\Users\erynz\source\repos\Week2Demo\Week2Demo\bin\Debug\net6.0\Week2Demo.pdb
+C:\Users\erynz\source\repos\Week2Demo\Week2Demo\obj\Debug\net6.0\Week2Demo.csproj.AssemblyReference.cache
+C:\Users\erynz\source\repos\Week2Demo\Week2Demo\obj\Debug\net6.0\Week2Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erynz\source\repos\Week2Demo\Week2Demo\obj\Debug\net6.0\Week2Demo.AssemblyInfoInputs.cache
+C:\Users\erynz\source\repos\Week2Demo\Week2Demo\obj\Debug\net6.0\Week2Demo.AssemblyInfo.cs
+C:\Users\erynz\source\repos\Week2Demo\Week2Demo\obj\Debug\net6.0\Week2Demo.csproj.CoreCompileInputs.cache
+C:\Users\erynz\source\repos\Week2Demo\Week2Demo\obj\Debug\net6.0\Week2Demo.dll
+C:\Users\erynz\source\repos\Week2Demo\Week2Demo\obj\Debug\net6.0\refint\Week2Demo.dll
+C:\Users\erynz\source\repos\Week2Demo\Week2Demo\obj\Debug\net6.0\Week2Demo.pdb
+C:\Users\erynz\source\repos\Week2Demo\Week2Demo\obj\Debug\net6.0\Week2Demo.genruntimeconfig.cache
+C:\Users\erynz\source\repos\Week2Demo\Week2Demo\obj\Debug\net6.0\ref\Week2Demo.dll
