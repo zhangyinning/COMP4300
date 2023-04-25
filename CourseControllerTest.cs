@@ -17,7 +17,7 @@ namespace CourseRegistrationTests.ControllerTests
     public class CourseControllerTest
     {
         [Fact]
-        public async Task Index_Test()
+        public async Task Index_NotNull_NumberofReturnValues()
         {
             //Arrange
             Course course1 = new Course
